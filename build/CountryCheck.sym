@@ -1,0 +1,8 @@
+1,1,2,main.isFromExpectedCountry
+2,2,2,main.userCountryCode
+3,-1,1,main.eq.out
+4,-1,1,main.eq.in[0]
+5,-1,1,main.eq.in[1]
+6,-1,0,main.eq.isz.out
+7,-1,0,main.eq.isz.in
+8,3,0,main.eq.isz.inv
